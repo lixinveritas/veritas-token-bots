@@ -29,4 +29,4 @@ Herhangi bir sorunuz olursa, sormaktan çekinmeyin!
 [issues](https://github.com/lixinveritas/veritas-token-bots/issues)
 
 ## [@lixinveritas](https://discordapp.com/users/718287701987688491)
-```
+discord.gg/veritas```
