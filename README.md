@@ -11,17 +11,17 @@ Discord sunucularında birden fazla botun/tokenin aynı anda çalışmasını sa
    cd veritas-token-bots
 
 2. **Gerekli bağımlılıkları yükleyin:**
-   npm install
+   `npm install`
 
 3. **Konfigürasyon dosyasını düzenleyin:**
    - `config.json` dosyasını açın ve bot tokenlarını ve ilgili ses kanalı ID'lerini ekleyin.
 
 4. **TypeScript dosyalarını derleyin:**
-    - sadece tssetup.bat i acmaniz yeterli olucak.
+    - sadece `tssetup.bat` i acmaniz yeterli olucak.
     - npx tsc --init(opsiyonel)
 
 5. **Botları başlatın:**
-   npm start
+   `npm start`
 
    Bu adımları tamamladıktan sonra botlar belirtilen ses kanallarına katılacak ve belirtilen aktiviteleri gerçekleştirecektir.
 
