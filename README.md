@@ -7,7 +7,7 @@ Discord sunucularında birden fazla botun/tokenin aynı anda çalışmasını sa
 ### Adımlar
 
 1. **Projeyi indirin veya klonlayın:**
-   git clone https://github.com/kullanici/veritas-token-bots.git
+   git clone https://github.com/lixinveritas/veritas-token-bots.git
    cd veritas-token-bots
 
 2. **Gerekli bağımlılıkları yükleyin:**
