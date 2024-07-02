@@ -27,5 +27,6 @@ Discord sunucularında birden fazla botun/tokenin aynı anda çalışmasını sa
 
 Herhangi bir sorunuz olursa, sormaktan çekinmeyin! 
 [issues](https://github.com/lixinveritas/veritas-token-bots/issues)
-```
+
 ## [@lixinveritas](https://discordapp.com/users/718287701987688491)
+```
