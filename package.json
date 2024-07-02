@@ -1,0 +1,27 @@
+{
+  "name": "veritas-token-bots",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "build": "tsc && nodemon dist/index.js"
+  },
+  "keywords": [],
+  "author": "lixinveritas",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "libsodium-wrappers": "^0.7.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  },
+  "description": "çalmaya değmez"
+}
